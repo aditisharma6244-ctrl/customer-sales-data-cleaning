@@ -1,0 +1,16 @@
+Customer_ID,Name,Age,Gender,City,Purchase_Date,Product,Sales_Amount,Email
+101,Aditi Sharma,23,Female,Dehradun,2026-09-01,Laptop,55000.0,aditi@gmail.com
+102,Rahul Kumar,25,Male,Delhi,2026-09-02,Mobile,25000.0,rahul@gmail.com
+103,Priya Singh,26,Female,Delhi,2026-09-03,Laptop,60000.0,priya@gmail.com
+104,Amit Verma,29,Male,Dehradun,2026-04-09,Headphones,3000.0,amit@gmail.com
+105,Neha Joshi,22,Female,Mumbai,2026-09-05,Tablet,22000.0,neha@gmail.com
+106,Rohan Mehta,26,Male,Mumbai,2026-09-06,Mobile,24500.0,rohan@gmail.com
+107,Sneha Gupta,27,Female,Delhi,2026-09-07,Laptop,58000.0,sneha@gmail.com
+108,Unknown,24,Female,Dehradun,2026-09-08,Headphones,3500.0,
+109,Vikas Sharma,26,Male,Mumbai,,Tablet,24500.0,vikas@gmail.com
+110,Pooja Rawat,31,Female,Dehradun,2026-09-10,Laptop,62000.0,pooja@gmail.com
+111,Ankit Singh,26,Male,Delhi,2026-09-11,Mobile,27000.0,
+112,Kavita Negi,28,Female,Dehradun,2026-09-12,Tablet,21000.0,kavita@gmail.com
+113,Riya Thakur,26,Female,Delhi,2026-09-13,Headphones,24500.0,riya@gmail.com
+114,Mohit Kumar,30,Male,Mumbai,2026-09-14,Laptop,4500.0,mohit@gmail.com
+115,Simran Kaur,21,Female,Dehradun,2026-09-15,Mobile,24000.0,simran@gmail.com
